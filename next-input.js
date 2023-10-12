@@ -1,4 +1,5 @@
 //auto focus on next input field after giving a value to prev input field
+//field names in a format field_n
 
 const handleChange = (e: any, field: any) => {
     setFieldValue(field, e.target.value);
