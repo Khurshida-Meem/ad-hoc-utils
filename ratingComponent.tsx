@@ -51,6 +51,8 @@ const StarRating = ({
 };
 
 // Example usage
+
+// <HRating setRating={setValue} initialRating={0} totalStars={10} />
 //const HRating = (props: any) => {
 //  const handleRatingChange = (newRating: any) => {
 //    props?.setRating(newRating);
