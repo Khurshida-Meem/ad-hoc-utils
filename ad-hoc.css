@@ -1,0 +1,4 @@
+.text-highlight--stencil {
+    -webkit-text-stroke: max(.0125em, .75px) currentColor;
+    -webkit-text-fill-color: transparent;
+}
